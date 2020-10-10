@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGeniusCore", "NGeniusCore\NGeniusCore.csproj", "{F9D876FC-9148-4187-B07D-1AD85F441ECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGeniusClient", "NGeniusClient\NGeniusClient.csproj", "{97EAF0FC-8A64-4591-8C55-F9601FD9678B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9D876FC-9148-4187-B07D-1AD85F441ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D876FC-9148-4187-B07D-1AD85F441ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D876FC-9148-4187-B07D-1AD85F441ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D876FC-9148-4187-B07D-1AD85F441ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EAF0FC-8A64-4591-8C55-F9601FD9678B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EAF0FC-8A64-4591-8C55-F9601FD9678B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EAF0FC-8A64-4591-8C55-F9601FD9678B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EAF0FC-8A64-4591-8C55-F9601FD9678B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A02F841B-2E2B-4B03-9427-0F8B8F2AE93C}
+	EndGlobalSection
+EndGlobal
